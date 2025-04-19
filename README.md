@@ -1,6 +1,3 @@
-<p align = "center">
-<img src = "https://github.com/Avishka14/Avishka14/blob/main/gif%20logo.gif">
-</p>
 
 ## Hi there! 👋
 
@@ -30,5 +27,7 @@ Currently pursuing my degree in Software Engineering, I enjoy exploring new prog
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avishka14/Avishka14/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
+<p align = "center">
+<img src = "https://github.com/Avishka14/Avishka14/blob/main/gif%20logo.gif">
+</p>
 
