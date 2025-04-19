@@ -1,8 +1,8 @@
 
-## Hi there! 👋
+## Hi there! 👋 
 
-I'm **Avishka Chamod**, an undergraduate software engineering student based in Sri Lanka. Passionate about coding and eager to learn new technologies!
-
+I'm **Avishka Chamod**,
+an undergraduate software engineering student based in Sri Lanka. Passionate about coding and eager to learn new technologies!
 ## About Me
 
 Currently pursuing my degree in Software Engineering, I enjoy exploring new programming languages and technologies. I'm always looking for opportunities to improve my skills and contribute to exciting projects.
@@ -28,6 +28,6 @@ Currently pursuing my degree in Software Engineering, I enjoy exploring new prog
 </picture>
 
 <p align = "center">
-<img src = "https://github.com/Avishka14/Avishka14/blob/main/gif%20logo.gif">
+<img src = "https://github.com/Avishka14/Avishka14/blob/main/gif%20logo.gif" >
 </p>
 
