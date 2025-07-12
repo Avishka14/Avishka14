@@ -11,11 +11,17 @@ Currently pursuing my degree in Software Engineering, I enjoy exploring new prog
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,mysql,docker,html,css,git,postman,react,spring,visualstudio,linux,hibernate&perline=8)](https://skillicons.dev)
 
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" >
-   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Avishka14&theme=tokyonight&hide_border=true">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" >
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka14&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="400"/>
+</p>
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avishka14/Avishka14/output/github-contribution-grid-snake-dark.svg" />
