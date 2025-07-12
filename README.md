@@ -14,11 +14,10 @@ Currently pursuing my degree in Software Engineering, I enjoy exploring new prog
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka14&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="400"/>
 </p>
+
+
 
 
 
