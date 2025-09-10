@@ -34,12 +34,28 @@ In addition to software development, I am deeply focused on cloud technologies, 
 
 ## Github Status
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-![Avishka14's Stats](https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Avishka14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avishka14&theme=tokyonight&hide_border=true)
-![Avishka14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- First two images side by side -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Avishka14&theme=tokyonight&hide_border=true&border_radius=2" 
+    alt="Streak Stats" 
+  />
 </div>
+
+<!-- Third image centered below -->
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
+    style="width: 500px; height: 300px; object-fit: cover; border-radius: 10px;" 
+    alt="Top Languages" 
+  />
+</div>
+
+
 
 
 <hr/>
