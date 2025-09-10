@@ -34,7 +34,7 @@ In addition to software development, I am deeply focused on cloud technologies, 
 
 ## Github Status
 
-<p align="center">
+<p align="start">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
     height="200" />
