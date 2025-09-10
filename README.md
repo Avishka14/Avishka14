@@ -34,26 +34,26 @@ In addition to software development, I am deeply focused on cloud technologies, 
 
 ## Github Status
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<p align="center">
   <!-- First two images side by side -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
   />
   <img 
     src="https://streak-stats.demolab.com?user=Avishka14&theme=tokyonight&hide_border=true&border_radius=2" 
-    alt="Streak Stats" 
   />
-</div>
+</p>
 
-<!-- Third image centered below -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
+<p align="center">
+  <!-- Third image centered below -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-    style="width: 500px; height: 300px; object-fit: cover; border-radius: 10px;" 
+    width="400" height="200" style="object-fit: cover; border-radius: 10px;" 
     alt="Top Languages" 
   />
-</div>
+</p>
+
+
 
 
 
