@@ -35,26 +35,10 @@ In addition to software development, I am deeply focused on cloud technologies, 
 ## Github Status
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- First two images side by side -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-    style="width: 300px; height: 200px; object-fit: cover;" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Avishka14&theme=tokyonight&hide_border=true&border_radius=2" 
-    style="width: 300px; height: 200px; object-fit: cover;" 
-    alt="Streak Stats" 
-  />
-</div>
 
-<!-- Third image centered below -->
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-    style="width: 300px; height: 200px; object-fit: cover;" 
-    alt="Top Languages" 
-  />
+![Avishka14's Stats](https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Avishka14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avishka14&theme=tokyonight&hide_border=true)
+![Avishka14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 
