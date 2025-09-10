@@ -38,9 +38,11 @@ In addition to software development, I am deeply focused on cloud technologies, 
   <!-- First two images side by side -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
+    width="500" height="300"
   />
   <img 
     src="https://streak-stats.demolab.com?user=Avishka14&theme=tokyonight&hide_border=true&border_radius=2" 
+    width="500" height="300"
   />
 </p>
 
@@ -48,7 +50,7 @@ In addition to software development, I am deeply focused on cloud technologies, 
   <!-- Third image centered below -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-    width="400" height="200" style="object-fit: cover; border-radius: 10px;" 
+    width="500" height="300"
     alt="Top Languages" 
   />
 </p>
