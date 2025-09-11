@@ -50,7 +50,7 @@ In addition to software development, I am deeply focused on cloud technologies, 
   <!-- Third image centered below -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-    width="500" height="300"
+    width="300" height="100"
     alt="Top Languages" 
   />
 </p>
