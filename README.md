@@ -38,11 +38,11 @@ In addition to software development, I am deeply focused on cloud technologies, 
   <!-- First two images side by side -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-    width="400" height="300"
+    width="500" height="300"
   />
   <img 
     src="https://streak-stats.demolab.com?user=Avishka14&theme=tokyonight&hide_border=true&border_radius=2" 
-    width="400" height="300"
+    width="500" height="300"
   />
 </p>
 
