@@ -32,28 +32,6 @@ In addition to software development, I am deeply focused on cloud technologies, 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,figma,docker,git,github,postman&perline=4)](https://skillicons.dev)
 
 
-## Github Status
-
-<p align="center">
-  <!-- First two images side by side -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-    width="350" height="200"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Avishka14&theme=tokyonight&hide_border=true&border_radius=2" 
-    width="350" height="200"
-  />
-</p>
-
-<p align="center">
-  <!-- Third image centered below -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-    width="350" height="200"
-    alt="Top Languages" 
-  />
-</p>
 
 
 
