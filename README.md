@@ -11,25 +11,25 @@ In addition to software development, I am deeply focused on cloud technologies, 
 
 ## Skills & Technologies
 
-- **Front-End Development**
+- **Front-End (Core + UI Libraries)**
   <br/>
   <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,jquery&perline=4)](https://skillicons.dev)
 
-- **Back-End Development**
+- **Back-End (Languages & Frameworks)**
   <br/>
   <br/>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,expressjs&perline=4)](https://skillicons.dev)
 
-- **Database & ORM**
+- **Databases & ORM**
   <br/>
   <br/>
-[![My Skills](https://skillicons.dev/icons?i=mysql,hibernate,sqlite&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,hibernate,sqlite,mongodb&perline=4)](https://skillicons.dev)
 
-- **Tools & IDEs**
+- **Tools, DevOps & Ecosystem**
   <br/>
   <br/>
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,figma,docker,git,github,postman&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,figma,docker,git,github,postman,kafka,grafana,rabbitmq,prometheus&perline=4)](https://skillicons.dev)
 
 
 
