@@ -19,7 +19,7 @@ In addition to software development, I am deeply focused on cloud technologies, 
 - **Back-End (Languages & Frameworks)**
   <br/>
   <br/>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,expressjs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,phython&perline=4)](https://skillicons.dev)
 
 - **Databases & ORM**
   <br/>
