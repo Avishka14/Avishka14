@@ -24,7 +24,7 @@ In addition to software development, I am deeply focused on cloud technologies, 
 - **Databases & ORM**
   <br/>
   <br/>
-[![My Skills](https://skillicons.dev/icons?i=mysql,hibernate,sqlite,mongodb&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,hibernate,sqlite,postgresql&perline=4)](https://skillicons.dev)
 
 - **Tools, DevOps & Ecosystem**
   <br/>
